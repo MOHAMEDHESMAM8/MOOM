@@ -1,2 +1,2 @@
 # MOOM
-Ecommerce Website for website sales
+Ecommerce Website for websites sales
